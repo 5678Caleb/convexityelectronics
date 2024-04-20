@@ -1,2 +1,2 @@
 # convexityelectronics
-CVXE Website
+Website for the Georgia Tech Startup: Convexity Electronics
